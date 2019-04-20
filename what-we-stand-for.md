@@ -7,3 +7,4 @@ We believe in the following values to build great relationships with our team me
 - Being responsible.
 - Being honest.
 - Being independent.
+- Being flexible.
