@@ -7,3 +7,10 @@ We are a worldwide remote agency and we work independently from clients’ locat
 ## About this handbook
 
 This is guide to inform our team members, customers and partners about our products & services, procedures, tools we're currently using, values, principles, and what we stand for. This way, all of our stakeholders can understand if they'd like to collaborate with us if we're aligned.
+
+## Sections
+
+- [What We Do](/what-we-do.md)
+- [Where We Work](/where-we-work.md)
+- [What We Stand For](/what-we-stand-for.md)
+- [What Influenced Us](/what-influenced-us.md)
