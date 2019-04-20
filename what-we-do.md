@@ -7,6 +7,7 @@ We are mainly working with startups from their idea stage till development of th
 We've defined that we are willing to work with businesses on the following industries:
 
 - Social Businesses
+- DeepTech
 - MedTech
 - BioTech
 - EduTech
