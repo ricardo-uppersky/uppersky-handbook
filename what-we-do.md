@@ -10,8 +10,8 @@ We've defined that we are willing to work with businesses on the following indus
 - MedTech
 - BioTech
 - EduTech
+- FoodTech
 - Sustainable Fashion
-- Food Production
 
 Although, we've cooperated with more industries and it's not a problem to evaluate our potential cooperation if we still share common values like honesty, not damaging the environment and hurting health of someone with the usage of the products.
 
