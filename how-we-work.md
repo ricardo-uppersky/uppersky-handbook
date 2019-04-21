@@ -31,4 +31,4 @@ Another methodology that we suggest to our customers and inspired by Basecamp, i
 
 ### Collaborating per hours
 
-Once a project doesn't have a clear scope, we require to make maintenance of an existing product or you want to extend your current team on-demand, we suggest to work on your project by hours. Our team report their execution time in weekly basis and we can establish the average spent time and fix the issues or create new features for your digital product.
+Once a project doesn't have a clear scope, we require to make maintenance of an existing product or you want to extend your current team on-demand, we suggest to work on your project per hours. Our team report their execution time in weekly basis and we can establish the average spent time and fix the issues or create new features for your digital product.
