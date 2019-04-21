@@ -16,4 +16,6 @@ This is guide to inform our team members, customers and partners about our produ
 - [What We Stand For](/what-we-stand-for.md)
 - [What Influenced Us](/what-influenced-us.md)
 - [Our Internal Tools](/our-internal-tools.md)
+- [Our Partners](/our-partners.md)
+- [Our Events](/our-events.md)
 - [Mentoring](/mentoring.md)
