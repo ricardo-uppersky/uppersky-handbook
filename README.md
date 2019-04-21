@@ -11,6 +11,7 @@ This is guide to inform our team members, customers and partners about our produ
 ## Sections
 
 - [What We Do](/what-we-do.md)
+- [How We Work](/how-we-work.md)
 - [Where We Work](/where-we-work.md)
 - [What We Stand For](/what-we-stand-for.md)
 - [What Influenced Us](/what-influenced-us.md)
