@@ -15,3 +15,5 @@ This is guide to inform our team members, customers and partners about our produ
 - [Where We Work](/where-we-work.md)
 - [What We Stand For](/what-we-stand-for.md)
 - [What Influenced Us](/what-influenced-us.md)
+- [Our Internal Tools](/our-internal-tools.md)
+- [Mentoring](/mentoring.md)
