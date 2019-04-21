@@ -5,3 +5,6 @@ We encourage our team members to be part of mentoring programs of different acce
 - [MassChallenge](https://masschallenge.org)
 - [Kickstart Accelerator](https://kickstart-accelerator.com)
 - [Founder Institute Prague & Oslo](https://fi.co)
+
+
+We are open to collaborate on other mentoring programs.
