@@ -24,7 +24,7 @@ After all the core features are defined, we'll make the following steps:
 - Release. Ideally we'll make periodical releases during the development iterations.
 
 
-### Cycles
+### Making Cycles
 
 Another methodology that we suggest to our customers and inspired by Basecamp, it's a 6 weeks cycle where a team compounded by a designer, frontend developer and backend developer will help you to make an initial product in a 6 weeks cycle. This time is enough to have some significant progress, although the goal of this methodology is to be flexible on the requirements/expectations and allow the team to define the most feasible and easiest way to solve a problem.
 
