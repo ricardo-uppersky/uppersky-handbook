@@ -7,6 +7,7 @@
 - [It doesn't have to be crazy at work](https://basecamp.com/books/calm)
 - [Building a Story Brand](https://storybrand.com/about/)
 - [People Over Profit](https://www.amazon.com/People-Over-Profit-Purpose-Successful/dp/1501222309)
+- [The Mom Test](http://momtestbook.com)
 
 ### People
 
