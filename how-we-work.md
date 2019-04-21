@@ -21,7 +21,7 @@ After all the core features are defined, we'll make the following steps:
 - Wireframing
 - Visual Design
 - Development
-- Release. Ideally we'll make periodical releases during the development cycles.
+- Release. Ideally we'll make periodical releases during the development iterations.
 
 
 ### Cycles
